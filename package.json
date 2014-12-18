@@ -1,0 +1,30 @@
+{
+  "name": "qirc",
+  "version": "0.1.0",
+  "description": "Quick IRC client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simplyianm/qirc"
+  },
+  "keywords": [
+    "irc",
+    "quick",
+    "irc",
+    "question",
+    "freenode"
+  ],
+  "author": "Ian Macalinao <me@ian.pw>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simplyianm/qirc/issues"
+  },
+  "homepage": "https://github.com/simplyianm/qirc",
+  "dependencies": {
+    "irc": "^0.3.7",
+    "faker": "^2.1.1"
+  }
+}
